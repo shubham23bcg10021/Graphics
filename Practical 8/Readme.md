@@ -365,3 +365,6 @@ particles[i].position += new Vector3(
     (Mathf.PerlinNoise(time + 1000, particles[i].randomSeed) - 0.5f) * noiseScale
 );
 ```
+
+## Output
+![Expression-driver, Swarm, Bubble n-particles generated](https://github.com/shubham23bcg10021/Graphics/blob/main/Practical%208/vecg7ss/Screenshot%202025-09-25%20023200.png)
